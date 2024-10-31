@@ -1,0 +1,38 @@
+/* Add this CSS in your styles.css or users.component.css */
+
+.container {
+  margin-top: 20px;
+}
+
+h4 {
+  text-align: center;
+}
+
+.table-bordered {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.table-bordered th, .table-bordered td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.table-bordered th {
+  background-color: #f2f2f2;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+  border: 1px solid #007bff;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border: 1px solid #0056b3;
+}
